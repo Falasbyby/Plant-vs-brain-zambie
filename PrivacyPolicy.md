@@ -1,7 +1,6 @@
 ## Plants vs Brainrot Privacy Policy
 
 **Effective Date:** November 7, 2025  
-**Owner / Operator:** `[Insert legal entity or studio name]`  
 **Contact Email:** denis.khalipov@gmail.com
 
 ### 1. Information We Collect
@@ -69,5 +68,6 @@ We may update this Privacy Policy from time to time. The latest version will alw
 For any questions or concerns about privacy, reach out to us at:
 
 Email: denis.khalipov@gmail.com  
+
 
 
